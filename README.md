@@ -85,10 +85,13 @@ Please install the required dependencies before running the code:
 pip install -r requirements.txt
 
 🚀 Running the Tracker
+
 ▶️ Test the Tracker
+
 python test.py
 
 📊 Evaluate the Tracker
+
 python eval.py
 
 🏋️ Training
@@ -103,6 +106,7 @@ siamfc-pytorch
 SiamTrackers
 
 Train the Model
+
 python train.py
 
 
